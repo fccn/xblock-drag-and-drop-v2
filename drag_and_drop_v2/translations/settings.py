@@ -70,6 +70,7 @@ LANGUAGES = [
     ('hi', 'Hindi'),
     ('ko_KR', 'Korean (Korea)'),
     ('pt_BR', 'Portuguese (Brazil)'),
+    ('pt_PT', 'Portuguese (Portugal)'),
     ('ru', 'Russian'),
     ('zh_CN', 'Chinese (China)'),
     ('pl', 'Polski'),
